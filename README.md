@@ -1,5 +1,5 @@
 # CNN_TensorFlow_Dataset_Flowers
-TensorFlow Datasets: tf_flowers (https://www.tensorflow.org/datasets/catalog/tf_flowers)
+## TensorFlow Datasets: tf_flowers (https://www.tensorflow.org/datasets/catalog/tf_flowers)
 
 The flowers dataset consists of images of flowers with 5 possible class labels.
 The flowers dataset consists of examples which are labeled images of flowers. 
@@ -14,11 +14,11 @@ We only have about three thousand labeled photos and want to spend much less tim
 We had tried to build a CNN from scratch. 
 Data augmentation is used: a technique to increase the diversity of your training set by applying random (but realistic) transformations, such as image rotation.
 Various techniques used to improve model performance:
-1. kernel initializers = GlorotUniform
-2. Batch Normalization
-3. Dropout
-4. Reduce LR On Plateau
+## 1. kernel initializers = GlorotUniform
+## 2. Batch Normalization
+## 3. Dropout
+## 4. Reduce LR On Plateau
 
-Model acheives 95% training and 74% validation accuaracy.
+## Model acheives 95% training and 74% validation accuaracy.
 
 
