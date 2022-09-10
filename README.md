@@ -1,7 +1,7 @@
 ## CNN_TensorFlow_Dataset_Flowers
 ### TensorFlow Datasets: tf_flowers (https://www.tensorflow.org/datasets/catalog/tf_flowers)
 
-The flowers dataset consists of images of flowers with 5 possible class labels.
+The flowers dataset consists of images of flowers with **5 possible class labels.**
 The flowers dataset consists of examples which are labeled images of flowers. 
 Each example contains a JPEG flower image and the class label: what type of flower it is. 
 
